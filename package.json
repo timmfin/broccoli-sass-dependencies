@@ -1,0 +1,9 @@
+{
+  "name": "broccoli-sass-dependencies",
+  "version": "0.0.1",
+  "description": "",
+  "author": "tfinley@hubspot.com",
+  "dependencies": {
+    "broccoli-dependencies": "git://github.com/timmfin/broccoli-dependencies.git"
+  }
+}
