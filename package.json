@@ -4,6 +4,7 @@
   "description": "",
   "author": "tfinley@hubspot.com",
   "dependencies": {
-    "broccoli-dependencies": "git://github.com/timmfin/broccoli-dependencies.git"
+    "broccoli-dependencies": "git://github.com/timmfin/broccoli-dependencies.git",
+    "walk-sync": "^0.1.3"
   }
 }
